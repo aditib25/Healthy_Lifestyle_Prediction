@@ -1,1 +1,1 @@
-A Machine Learning model that predicts whether a person is leading a 'healthy' lifestyle or not.
+A Machine Learning model designed to discern an individual's adherence to a 'health-conscious' lifestyle. 
