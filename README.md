@@ -1,1 +1,3 @@
-A Machine Learning model designed to discern an individual's adherence to a 'health-conscious' lifestyle. 
+Conducted extensive data analysis utilizing Python and subsequently constructed a Machine Learning model designed to discern an individual's adherence to a 'health-conscious' lifestyle.
+
+This project constituted an integral component of my participation in the Summer Analytics 2023, a certification course specializing in Machine Learning and Data Science, administered by the Consulting and Analytics Club (CAC), IIT Guwahati. My performance in this project as well as the rest of the bootcamp merited a position among the program's higher achievers, leading to the bestowal of a merit certificate.
